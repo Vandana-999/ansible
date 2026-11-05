@@ -1,0 +1,22 @@
+- name: "abc"
+  dob: "1999-01-01"
+  addresses: 
+  - flatNO: 102
+    street: "abc"
+    type: current
+    
+  - flatNO: 102
+    street: "abc"
+    type: current
+
+- name: "xyz"
+  dob: "1999-01-01"
+  addresses: 
+  - flatNO: 102
+    street: "abc"
+    type: current
+
+  - flatNO: 102
+    street: "abc"
+    type: current
+  
